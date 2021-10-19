@@ -1,4 +1,13 @@
-# jams<img width="958" alt="main_page" src="https://user-images.githubusercontent.com/73009807/137959038-926db4d2-6a9c-488d-92e2-35a15b3d9e35.png">
+# jams
+
+
+
+https://user-images.githubusercontent.com/73009807/137960444-a3dc5d39-10bc-4d5e-9838-dba7831c1379.mp4
+
+
+
+
+<img width="958" alt="main_page" src="https://user-images.githubusercontent.com/73009807/137959038-926db4d2-6a9c-488d-92e2-35a15b3d9e35.png">
 <img width="950" alt="sing_up_page" src="https://user-images.githubusercontent.com/73009807/137959074-8dc33674-c6aa-4025-89fb-7c0837f34ef6.png">
 <img width="950" alt="email_verification" src="https://user-images.githubusercontent.com/73009807/137959094-3c716d33-1e64-4293-8e29-fdf6e52e2c80.png">
 <img width="952" alt="faculty_login_page" src="https://user-images.githubusercontent.com/73009807/137959107-d26a421f-bac3-470e-b6e9-a84bf30efd55.png">
