@@ -24,3 +24,8 @@ https://user-images.githubusercontent.com/73009807/137960444-a3dc5d39-10bc-4d5e-
 <img width="955" alt="add_subject_and_faculty" src="https://user-images.githubusercontent.com/73009807/137959181-34eb8bb6-2b9e-4403-a10a-cba229b9f42e.png">
 <img width="953" alt="after_selecting_the_branch_student_result_page" src="https://user-images.githubusercontent.com/73009807/137959193-aa526dd8-8da7-424a-abde-aa63e98c2d9f.png"><img width="952" alt="add_ia_schedule_page" src="https://user-images.githubusercontent.com/73009807/137959208-236570ad-47c6-4b9f-9fbd-70b5f031bc19.png">
 
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/73009807/178116233-eba42136-df2b-4d39-9e59-53b8571a2866.png">
+
+<img width="953" alt="image" src="https://user-images.githubusercontent.com/73009807/178116244-c2c50c75-aacf-48fa-9de3-f524a3338640.png">
+
+
